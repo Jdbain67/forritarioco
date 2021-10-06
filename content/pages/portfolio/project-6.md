@@ -1,6 +1,6 @@
 ---
 title: Save Me A Book
-subtitle: Brand Development
+subtitle: Personal Book Blog
 date: '2021-02-06'
 thumb_image: images/work-photography-magazine-1-thumb.jpg
 thumb_image_alt: Subtle preview
