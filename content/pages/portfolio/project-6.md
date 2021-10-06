@@ -11,11 +11,11 @@ sections:
     image: /images/SMAB_logo.png
   - type: text_section
     content: >
-      ## A web app to search, view, and save clients' favorite books. Utilizing
-      the New York Times API, the app is able to display current curated
-      bestseller lists and featured books. Through the Google Books API, any
-      book can be searched and displayed based on a variety of search terms. A
-      user is able to save any book that has been displayed and is saved to a
+      #### A web app to search, view, and save clients' favorite books.
+      Utilizing the New York Times API, the app is able to display current
+      curated bestseller lists and featured books. Through the Google Books API,
+      any book can be searched and displayed based on a variety of search terms.
+      A user is able to save any book that has been displayed and is saved to a
       MongoDB database, which can be called to render all saved books based on a
       unique user ID saved in local storage and delete any specified entry. This
       project utilizes React and is fully responsive.
