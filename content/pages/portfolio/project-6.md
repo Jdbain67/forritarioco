@@ -3,7 +3,7 @@ title: Save Me A Book
 subtitle: Personal Book Blog Website
 date: '2021-10-06'
 thumb_image: /images/smab.jpg
-thumb_image_alt: save me a book logo preview
+thumb_image_alt: save me a book logo
 sections:
   - type: image_section
     image_alt: Subtle 1
