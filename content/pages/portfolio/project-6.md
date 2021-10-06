@@ -1,7 +1,7 @@
 ---
 title: Save Me A Book
 subtitle: Personal Book Blog Website
-date: '2021-02-06'
+date: '2021-10-06'
 thumb_image: /images/smab.jpg
 thumb_image_alt: Subtle preview
 sections:
