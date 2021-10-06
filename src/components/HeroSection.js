@@ -15,7 +15,7 @@ export default class HeroSection extends React.Component {
         return (
             <section id={sectionId} className="hero">
                 <div className="container container--lg">
-                    {title && <h1 className="hero__title">{title}</h3>}
+                    {title && <h3 className="hero__title">{title}</h3>}
                     {content && (
                         <div className="hero__body text-block">
                             {markdownify(content)}
