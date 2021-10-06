@@ -8,7 +8,7 @@ sections:
       We confront any, and all, obstacles and share in the successes together.
       [Let's talk](/contact/).
     title: >-
-      Forritari.co is a company of engineers, designers, developers, project
+      <Forritari.co is a company of engineers, designers, developers, project
       managers, researchers, and artists that have a wealth of skills and are
       passionate about what they do. Every person with whom we work becomes a
       member of the team.
