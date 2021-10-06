@@ -5,9 +5,9 @@ sections:
   - type: hero_section
     section_id: hero
     content: >
-      Every person with whom we work becomes a member of the team. We confront
-      any, and all, obstacles and share in the successes together. [Let's
-      talk](/contact/).
+      Every person with whom we work with becomes a member of the team. We
+      confront any, and all, obstacles and share in the successes together.
+      [Let's talk](/contact/).
     title: >-
       Forritari.co is a company of engineers, designers, developers, project
       managers, researchers, and artists that have a wealth of skills and are
