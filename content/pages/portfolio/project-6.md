@@ -10,15 +10,22 @@ sections:
     width: wide
     image: /images/SMAB_logo.png
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      ## A web app to search, view, and save clients' favorite books. Utilizing
+      the New York Times API, the app is able to display current curated
+      bestseller lists and featured books. Through the Google Books API, any
+      book can be searched and displayed based on a variety of search terms. A
+      user is able to save any book that has been displayed and is saved to a
+      MongoDB database, which can be called to render all saved books based on a
+      unique user ID saved in local storage and delete any specified entry. This
+      project utilizes React and is fully responsive.
+
+
+      ### Technologies Used
+
+
+      ###### React, HTML/CSS, JavaScript, Node.js, MongoDB, Mongoose, REST API,
+      Google Books API, New York Times API, LocalStorage
   - type: image_section
     image: images/work-photography-magazine-2.jpg
     image_alt: Subtle 2
