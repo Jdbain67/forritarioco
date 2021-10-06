@@ -3,7 +3,7 @@ title: Home
 hide_title: true
 sections:
   - type: hero_section
-    section_id: h
+    section_id: h2h
     content: >
       Every person with whom we work becomes a member of the team. We confront
       any, and all, obstacles and share in the successes together. [Let's
