@@ -12,22 +12,6 @@ sections:
       Forritari.co is a company of engineers, designers, developers, project
       managers, researchers, and artists that have a wealth of skills and are
       passionate about what they do. 
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
