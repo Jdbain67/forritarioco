@@ -9,7 +9,7 @@ sections:
     image_alt: Subtle 1
     caption: This is the caption of the image
     width: wide
-    image: /images/smab.jpg
+    image: /images/SMAB_logo.png
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
