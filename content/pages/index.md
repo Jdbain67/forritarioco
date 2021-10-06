@@ -9,7 +9,7 @@ sections:
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
     title: >-
-      Engineers, designers, developers, project managers, researchers, and
+      engineers, designers, developers, project managers, researchers, and
       artists that have a wealth of skills and are passionate about what they
       do. Every person with whom we work becomes a member of the team. We
       confront any, and all, obstacles and share in the successes together.
