@@ -2,18 +2,19 @@
     "title": "Stackbit Agency Theme",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "green",
-    "base_font": "fraunces",
+    "accent_color": "pink",
+    "base_font": "system-sans",
     "header": {
-        "title": "Agency",
+        "title": "Forritario.co",
         "logo": "images/logo.svg",
-        "logo_alt": "Agency logo",
+        "logo_alt": "Forritario.co logo",
         "has_nav": true,
         "nav_links": [
             {
                 "label": "Home",
                 "url": "/",
-                "style": "link"
+                "style": "link",
+                "icon": "facebook"
             },
             {
                 "label": "Work",
@@ -70,5 +71,7 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://forritarioco-e0f56.netlify.app",
+    "favicon": "/images/F (1).png"
 }
