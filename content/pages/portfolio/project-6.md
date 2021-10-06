@@ -7,7 +7,6 @@ thumb_image_alt: Subtle preview
 sections:
   - type: image_section
     image_alt: Subtle 1
-    caption: This is the caption of the image
     width: wide
     image: /images/SMAB_logo.png
   - type: text_section
