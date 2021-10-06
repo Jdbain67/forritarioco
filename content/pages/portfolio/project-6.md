@@ -2,7 +2,7 @@
 title: Save Me A Book
 subtitle: Personal Book Blog Website
 date: '2021-10-06'
-thumb_image: /images/smab.jpg
+thumb_image: /images/Purple and Red Leaves Illustration Children's Book Cover.png
 thumb_image_alt: Save me a book logo
 sections:
   - type: image_section
