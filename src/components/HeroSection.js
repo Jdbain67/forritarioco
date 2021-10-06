@@ -6,7 +6,7 @@ import CtaButtons from './CtaButtons';
 
 export default class HeroSection extends React.Component {
     render() {
-        const section = _.get(this.props, 'section');
+        const section = _.get(tenhis.props, 'section');
         const sectionId = _.get(section, 'section_id');
         const title = _.get(section, 'title');
         const content = _.get(section, 'content');
