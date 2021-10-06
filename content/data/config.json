@@ -13,7 +13,7 @@
             {
                 "label": "Home",
                 "url": "/",
-                "style": "button",
+                "style": "link",
                 "icon": "facebook"
             },
             {
