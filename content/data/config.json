@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "blue",
-    "base_font": "fraunces",
+    "base_font": "system-sans",
     "header": {
         "title": "Forritario.co",
         "logo": "images/logo.svg",
