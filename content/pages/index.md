@@ -4,10 +4,9 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >
+      We confront any, and all, obstacles and share in the successes together.
+      [Let's talk](/contact/).
     title: >-
       Forritari.co is a company of engineers, designers, developers, project
       managers, researchers, and artists that have a wealth of skills and are
