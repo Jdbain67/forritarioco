@@ -8,11 +8,7 @@ sections:
       We are a brand and design practice. We work closely with you, your team to
       deliver inspiring work, which enables your organization to grow. [Let's
       talk](/contact/).
-    title: >-
-      engineers, designers, developers, project managers, researchers, and
-      artists that have a wealth of skills and are passionate about what they
-      do. Every person with whom we work becomes a member of the team. We
-      confront any, and all, obstacles and share in the successes together.
+    title: ' engineers, designers, developers, project managers, researchers, and artists that have a wealth of skills and are passionate about what they do. Every person with whom we work becomes a member of the team. We confront any, and all, obstacles and share in the successes together.'
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles
